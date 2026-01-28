@@ -11,7 +11,7 @@ cubes:
     # Only views should be exposed to BI and data visualization tools
     public: false
 
-    # Joins define relationships between cubes.
+    # Joins  define relationships between cubes.
     # Learn more: https://cube.dev/docs/product/data-modeling/concepts/working-with-joins
     joins:
       - name: line_items
